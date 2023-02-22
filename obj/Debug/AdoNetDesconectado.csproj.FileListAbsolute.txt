@@ -1,0 +1,12 @@
+E:\Sise Ciclos\visual studio\AdoNetDesconectado\bin\Debug\AdoNetDesconectado.exe.config
+E:\Sise Ciclos\visual studio\AdoNetDesconectado\bin\Debug\AdoNetDesconectado.exe
+E:\Sise Ciclos\visual studio\AdoNetDesconectado\bin\Debug\AdoNetDesconectado.pdb
+E:\Sise Ciclos\visual studio\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.csproj.AssemblyReference.cache
+E:\Sise Ciclos\visual studio\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.csproj.SuggestedBindingRedirects.cache
+E:\Sise Ciclos\visual studio\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.frmTipoCliente.resources
+E:\Sise Ciclos\visual studio\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.Properties.Resources.resources
+E:\Sise Ciclos\visual studio\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.csproj.GenerateResource.cache
+E:\Sise Ciclos\visual studio\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.csproj.CoreCompileInputs.cache
+E:\Sise Ciclos\visual studio\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.exe
+E:\Sise Ciclos\visual studio\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.pdb
+E:\Sise Ciclos\visual studio\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.frmTipoClienteEdit.resources
